@@ -22,3 +22,6 @@ AI Agents Governing AI Agents. The solution applies agentic AI principles to cre
 •	Automated governance decisions in seconds
 •	Scalable protection for enterprise agent ecosystems
 
+**Link of the deployed app (prototype)**: https://ai-sudarshan-chakra-the-ai-governance.streamlit.app/
+**Link of the repository with all the documentation** including Architecture Diagram, Single Page Problem Statement and the PPT: https://github.com/shonali-codes/ai-sudarshan-chakra
+
